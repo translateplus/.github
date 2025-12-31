@@ -201,7 +201,7 @@ TranslatePlus supports **100+ languages** including:
 - **African**: Swahili, Afrikaans, and more
 - **And many more...**
 
-See the full list at [Supported Languages](https://docs.translateplus.io/reference/v2/supported-languages)
+See the full list at [Supported Languages](https://docs.translateplus.io/reference/v2/language/supported-languages)
 
 ---
 
