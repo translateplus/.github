@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![TranslatePlus Logo](https://translateplus.io/assets/images/logo-dark.png)
+![TranslatePlus Logo]([https://translateplus.io/assets/images/logo-dark.png](https://translateplus.io/assets/images/logo-dark.png))
 
 **Fast, Affordable, and Reliable Translation API for Developers**
 
